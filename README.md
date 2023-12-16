@@ -1,6 +1,7 @@
 # 自作スイカゲーム
 
-### [スイカゲームとは](https://store-jp.nintendo.com/list/software/70010000043363.html)
+### [スイカゲームとは(公式サイト
+)](https://store-jp.nintendo.com/list/software/70010000043363.html)
 
 # 概要
 動画配信サイトでスイカゲームのプレイ動画を拝見し、「自分で作成できるかも」と思って制作を始めたプロジェクトになります。
